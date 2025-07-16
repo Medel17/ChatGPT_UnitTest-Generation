@@ -1,0 +1,7 @@
+openai>=1.0.0
+javalang>=0.13.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
+junit-jupiter-api>=5.8.0
+junit-jupiter-engine>=5.8.0
+junit-platform-console-standalone>=1.8.0
