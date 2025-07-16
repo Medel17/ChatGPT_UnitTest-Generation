@@ -1,0 +1,302 @@
+{
+  "ArrayCountComplexTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 91.66666666666667,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "BasementTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 85.71428571428571,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "ChecksumTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 88.88888888888889,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "CollatzTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "FizzBuzzTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 88.88888888888889,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "GCDArrayTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 88.23529411764706,
+      "branch_coverage": 90.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "GCDTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 92.3076923076923,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "IsLeapYearTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "IsPrimeTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 85.0,
+      "branch_coverage": 87.5,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "LetterDoublerTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 93.33333333333333,
+      "branch_coverage": 92.85714285714286,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "MedianFinderTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 75.0,
+      "branch_coverage": 83.33333333333333,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "MiddleCharacterTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "MirrorImageTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "MultipleComparisonsTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "NegativeToZeroTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 88.88888888888889,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "OddCounterTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "PairedDigitsTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "PowTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 92.3076923076923,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SizeClassifierTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SmallestOfFourTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 92.85714285714286,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SortTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 90.9090909090909,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SquareDigitsTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 88.88888888888889,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SquareSummerTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 80.0,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "StringLengthComparatorTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "SyllableCounterTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 85.71428571428571,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "VectorAverageDoubleTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "VectorAverageFloatTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 87.5,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "VectorAverageIntTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 85.71428571428571,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "VectorsSummedTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 85.71428571428571,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  },
+  "ZeroIndexFinderTest.java": {
+    "compilation_success": true,
+    "test_execution_success": true,
+    "code_coverage": {
+      "line_coverage": 83.33333333333333,
+      "branch_coverage": 100.0,
+      "method_coverage": 100.0
+    },
+    "error": null
+  }
+}
